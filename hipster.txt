@@ -1,2 +1,4 @@
 boat
 ship
+car
+tank
